@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nss2k17</string>
+    <string name="Open"><Open></Open></string>
+    <string name="Close"><Close></Close></string>
+    <string name="Name">Username</string>
+    <string name="Phone">Phone Number</string>
+    <string name="message">Message</string>
+    <string name="button">Button</string>
+
+
+    <array name="bloodGroups">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </array>
+
+
+</resources>
